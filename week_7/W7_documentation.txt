@@ -1,0 +1,11 @@
+Bug found:
+No fucntion imported
+Total payment was not callculated 
+No validation for invalid price 
+No validation for invalid quantity 
+
+Fixes:
+imported calculate_total():
+Added calculate_total() function 
+Added input validation
+Added pytest test cases 
